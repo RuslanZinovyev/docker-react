@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Holly shit it's working!!!
+          My REACT application inside of the Docker!
         </p>
         <a
           className="App-link"
